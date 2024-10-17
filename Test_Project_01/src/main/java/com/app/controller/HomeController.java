@@ -15,8 +15,6 @@ public class HomeController {
 	public Student addStudent(@RequestBody Student s)
 	
 	{
-		
-		
 		return null;
 		
 	}
