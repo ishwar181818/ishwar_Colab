@@ -10,13 +10,12 @@ import com.app.model.Student;
 @RestController
 public class HomeController {
 	
-	
-	
 	@PostMapping("/add")
 	public Student addStudent(@RequestBody Student s)
 	
 	{
 		return null;
+		
 		
 	}
 	
