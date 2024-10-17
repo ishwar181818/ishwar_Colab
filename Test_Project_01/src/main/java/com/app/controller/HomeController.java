@@ -26,4 +26,13 @@ public class HomeController {
 		return "Student";
 	}
 
+	@GetMapping("/delete")
+	public String deleteStudent(int rollno)
+	{
+		return "Student Will Be Deleted";
+	}
 }
+
+
+
+
