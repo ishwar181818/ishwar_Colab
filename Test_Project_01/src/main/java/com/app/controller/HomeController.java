@@ -32,7 +32,3 @@ public class HomeController {
 		return "Student Will Be Deleted";
 	}
 }
-
-
-
-
