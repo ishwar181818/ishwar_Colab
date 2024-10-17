@@ -11,6 +11,7 @@ import com.app.model.Student;
 public class HomeController {
 	
 	
+	
 	@PostMapping("/add")
 	public Student addStudent(@RequestBody Student s)
 	
